@@ -1,1 +1,1 @@
-ssh -p 3422 -R 14122:localhost:22 root@yoko.ukrtux.com
+ssh -D 5582 -p3422 -i olesmelnyk root@yoko.ukrtux.com
